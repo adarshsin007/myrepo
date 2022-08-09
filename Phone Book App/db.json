@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "Adarsh",
+      "lastName": "Singh",
+      "phoneNumber": "8708421789"
+    },
+    {
+      "id": 2,
+      "phoneNumber": "9774365152",
+      "firstName": "Abhishek",
+      "lastName": "Sharma"
+    },
+    {
+      "id": 3,
+      "phoneNumber": "96694206918",
+      "firstName": "Kartik",
+      "lastName": "Chaturvedi"
+    },
+    {
+      "id": 4,
+      "firstName": "Chhavi ",
+      "lastName": "Mainwall",
+      "phoneNumber": "91263445897"
+    }
+  ]
+}

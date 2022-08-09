@@ -1,0 +1,12 @@
+P.S. Number: 10711399
+Name - Adarsh Singh
+
+Steps:
+
+1. Open the folder in VS Code by going into File menu>Open Folder.
+2. Open new terminal
+3. Write "npm i" to install node modules
+4. After npm i, write "json-server --watch db.json --port 3000" for hosting
+5. Open a new Command prompt inside the VS Code.
+6. In the command prompt, write "ng s".
+7. To open the Phone Book App in browser, CTRL + CLICK on the link given by Command Prompt.
